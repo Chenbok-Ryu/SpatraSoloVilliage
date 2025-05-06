@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Git\\ShootingGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\git\\shootinggame\\assets\\scripts\\ui\\dialogueui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\ui\\dialogueui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\ui\\wavezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\wavezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\entity\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\weapon\\rangeweaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\rangeweaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\manager\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\ui\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\ui\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\entity\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\entity\\dustparticlecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity\\dustparticlecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\weapon\\projectilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\projectilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\manager\\projectilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\projectilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\entity\\resourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity\\resourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\ui\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\entity\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\entity\\animationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity\\animationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\manager\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\ui\\homeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\homeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\ui\\baseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\baseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\manager\\soundsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\soundsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\weapon\\meleeweaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\meleeweaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\weapon\\weaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\weaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Git\\ShootingGame\\assets\\scripts\\entity\\stathandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity\\stathandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Git\\ShootingGame\\Assets\\Scripts\\Entity\\NPCInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Entity\\NPCInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NPCInteraction.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Entity\\NPCInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity\\NPCInteraction.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Entity\\NPCInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity\\NPCInteraction.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwCEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:28:57.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DialogueUI.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\UI\\DialogueUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DialogueUI.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\UI\\DialogueUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\DialogueUI.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:36:16.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WaveZone.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\UI\\WaveZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\WaveZone.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\UI\\WaveZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\WaveZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:39:29.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\UI\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\CameraFollow.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\UI\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:53:09.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectileManager.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Manager\\ProjectileManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\ProjectileManager.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Manager\\ProjectileManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\ProjectileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T01:24:08.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResourceController.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Entity\\ResourceController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity\\ResourceController.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Entity\\ResourceController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity\\ResourceController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAFkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:21:25.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameUI.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\UI\\GameUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameUI.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\UI\\GameUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameUI.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:38:26.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Entity\\BaseController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity\\BaseController.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Entity\\BaseController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity\\BaseController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAIAywH8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T05:26:43.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Entity\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity\\PlayerController.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Entity\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity\\PlayerController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T05:50:03.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseUI.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\UI\\BaseUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\BaseUI.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\UI\\BaseUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\BaseUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:36:32.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeUI.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\UI\\HomeUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\HomeUI.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\UI\\HomeUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\HomeUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:37:53.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameOverUI.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\UI\\GameOverUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameOverUI.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\UI\\GameOverUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameOverUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:39:02.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RangeWeaponHandler.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Weapon\\RangeWeaponHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\RangeWeaponHandler.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Weapon\\RangeWeaponHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\RangeWeaponHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:22:37.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Manager\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\EnemyManager.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Manager\\EnemyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\EnemyManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAApwBsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:55:00.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Entity\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity\\EnemyController.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Entity\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity\\EnemyController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvwQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:41:40.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:24:31.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectileController.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Weapon\\ProjectileController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\ProjectileController.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Weapon\\ProjectileController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\ProjectileController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwFEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T01:51:00.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DustParticleControl.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Entity\\DustParticleControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity\\DustParticleControl.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Entity\\DustParticleControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity\\DustParticleControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T03:11:18.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WeaponHandler.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Weapon\\WeaponHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\WeaponHandler.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Weapon\\WeaponHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\WeaponHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:14:40.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AnimationHandler.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Entity\\AnimationHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity\\AnimationHandler.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Entity\\AnimationHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity\\AnimationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T06:49:49.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MeleeWeaponHandler.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Weapon\\MeleeWeaponHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\MeleeWeaponHandler.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Weapon\\MeleeWeaponHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\MeleeWeaponHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:50:10.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SoundSource.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Manager\\SoundSource.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\SoundSource.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Manager\\SoundSource.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\SoundSource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:17:30.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Manager\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\SoundManager.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Manager\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\SoundManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:21:28.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Manager\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\UIManager.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Manager\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\UIManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAEwCwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:33:02.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StatHandler.cs",
+              "DocumentMoniker": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Entity\\StatHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity\\StatHandler.cs",
+              "ToolTip": "E:\\Git\\ShootingGame\\Assets\\Scripts\\Entity\\StatHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity\\StatHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:13:20.907Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
